@@ -3,3 +3,6 @@
 
 # Create symlink
 `ln -s ~/.vim/vimrc ~/.vimrc`
+
+# Pull Submodules
+`git submodule update --init`
