@@ -1,6 +1,4 @@
-execute pathogen#infect()
-
-colorscheme molokai
+" colorscheme molokai
 
 syntax on
 

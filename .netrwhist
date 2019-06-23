@@ -1,4 +1,11 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =2
+let g:netrw_dirhist_cnt =9
 let g:netrw_dirhist_1='/home/justin/go/src/github.com/jseely/xistance/cmd'
 let g:netrw_dirhist_2='/home/justin/go/src/github.com/jseely/todo/utils'
+let g:netrw_dirhist_3='/home/justin/git/github.com/az-cat/project-deadpool/scripts/misc'
+let g:netrw_dirhist_4='/home/justin/git/github.com/jseely/photo-viewer/static-assets'
+let g:netrw_dirhist_5='/home/justin/git/github.com/jseely/photo-viewer/src'
+let g:netrw_dirhist_6='/home/justin/.config/rofi'
+let g:netrw_dirhist_7='/etc/modprobe.d'
+let g:netrw_dirhist_8='/etc'
+let g:netrw_dirhist_9='/home/justin/.vim/autoload'
