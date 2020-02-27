@@ -1,5 +1,3 @@
-" colorscheme molokai
-
 syntax on
 
 filetype plugin indent on
@@ -9,4 +7,5 @@ set tabstop=2
 set shiftwidth=2
 " On pressing tab, insert 2 spaces
 set expandtab
-set clipboard=unnamedplus
+
+
